@@ -1,6 +1,6 @@
 # MStud
 
-##Portal For The Student Registration in Educational Institue
+## Portal For The Student Registration in Educational Institue
 
 ### Overview of Idea:
 
